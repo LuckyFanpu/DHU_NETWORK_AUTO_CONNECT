@@ -1,0 +1,2 @@
+# DHU_NETWORK_AUTO_CONNECT
+一个自动连接东华大学校园网的脚本
