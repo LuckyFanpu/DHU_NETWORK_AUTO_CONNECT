@@ -1,2 +1,5 @@
 # DHU_NETWORK_AUTO_CONNECT
-一个自动连接东华大学校园网的脚本
+由于东华大学使用网线的主机每晚12点会断连
+于是写了一个自动连接东华大学校园网的脚本
+
+该脚本使用selenium加Edge进行模拟人的登录操作，代码很简单，但是注意需要先配置selenium的环境(下载selenium的包和对应浏览器的webdriver)
